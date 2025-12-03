@@ -1,0 +1,28 @@
+# Python Requirements for mtDNA Analysis Educational Project
+# For: "Mitochondrial dynamic from development to aging"
+# Install with: pip install -r requirements.txt
+
+# Data Analysis and Scientific Computing
+numpy==1.24.3
+pandas==2.0.3
+scipy==1.11.2
+
+# Data Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Bioinformatics
+biopython==1.81
+
+# Statistical Analysis
+scikit-learn==1.3.0
+
+# Data Download
+requests==2.31.0
+
+# Optional but recommended for interactive analysis
+jupyter==1.0.0
+ipython==8.14.0
+
+# Optional: For advanced sequence analysis
+# ViennaRNA==2.5.1  # Uncomment if needed for secondary structure prediction
